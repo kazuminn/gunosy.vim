@@ -1,5 +1,5 @@
 #about
-* グノシーwebサイトからテクノロジー分野の目次をVimで見る
+* グノシーwebサイトからテクノロジー分野の記事をvimで見る。
 * OSx 10.10でテスト済み
 * rubyスクリプトのpathがイマイチわかんないので調節してください。
 
@@ -20,7 +20,7 @@ nmap gx <Plug>(openbrowser-smart-search)
 :GetGunosy
 </pre>
 
-*記事の内容を取得
+*記事の内容を取得(見たい記事のurlの上にカーソルを置いて実行）
 <pre>
 :GetBody
 </pre>
