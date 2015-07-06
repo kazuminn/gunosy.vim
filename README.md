@@ -20,7 +20,7 @@ nmap gx <Plug>(openbrowser-smart-search)
 :GetGunosy
 </pre>
 
-*記事の内容を取得(見たい記事のurlの上にカーソルを置いて実行）
+*　記事の内容を取得(見たい記事のurlの上にカーソルを置いて実行）
 <pre>
 :GetBody
 </pre>
